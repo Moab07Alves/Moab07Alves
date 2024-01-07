@@ -45,8 +45,6 @@
 ### :top: Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="left" height="250" alt="coding-time" src="code.gif">
-
 <h1 align="center" style="color: #ba6771;"> 📱👻 Connect with me 👀👇</h1>
 
 <p align="center">
