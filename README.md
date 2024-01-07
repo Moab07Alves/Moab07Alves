@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&show_icons=true&count_private=true&hide_border=false&theme=gotham" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&layout=compact&hide_border=false&theme=gotham" />
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&layout=compact&hide_border=false&theme=gotham" />
 </div>
 
 ## :computer: Tech Stack:
