@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&show_icons=true&count_private=true&hide_border=false&theme=gotham" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&layout=compact&hide_border=false&theme=gotham" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&layout=compact&hide_border=false&theme=gotham" />
 </div>
 
 ## :computer: Tech Stack:
@@ -31,7 +31,7 @@
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
   <a href="https://www.instagram.com/moab_7alves/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/moab-alves-de-souza-3421082a6/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
+  <a href="https://t.me/Moab Alves"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
