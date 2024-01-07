@@ -29,9 +29,9 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
-  <a href="https://www.instagram.com/moab_7alves/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/moab-alves-de-souza-3421082a6/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/moab_7alves/"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/moab-alves-de-souza-3421082a6/"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
