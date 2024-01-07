@@ -15,9 +15,10 @@
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&layout=compact&hide_border=false&theme=gotham" />
 </div>
 
-## :computer: Tech Stack:
+## :computer: Tech Stack
 
-### 🚀 Skills
+## 🚀 Skills 🗡
+## 🛠 Tools 🪛
 
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
