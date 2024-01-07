@@ -45,7 +45,7 @@
 ### :top: Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2 style="color: #ba6771;">Connect with me 👇</h2>
+<h1 align="center" style="color: #ba6771;"> 📱👻 Connect with me 👀👇</h1>
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
@@ -54,7 +54,7 @@
   <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
+<h3 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
