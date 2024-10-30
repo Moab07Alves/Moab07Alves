@@ -60,7 +60,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h1 align="center" style="color: #ba6771;"> 📱👻 Connect with me 👀👇</h1>
 
+<p align="center">
+  <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
+  <a href="https://www.instagram.com/moab_7alves/"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/moab-alves-de-souza-3421082a6/"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
+</p>
 
-
-
+<h3 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h3>
