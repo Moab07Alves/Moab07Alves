@@ -16,14 +16,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div id="top-contributed-repo" style="display: flex; align-items: center; justify-content: center; background-color: #1e1e1e; padding: 20px; border-radius: 8px; color: white; margin: 0 auto; max-width: 800px;">
-    <div style="margin-right: 20px; text-align: center;">
-        <h3>Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="width: 200px; height: 200px; object-fit: cover;"/>
-    </div>
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GIF" style="width: 200px; height: 200px; object-fit: cover;"/>
+<div style="text-align: center; margin-top: 20px;">
+  <h3>:top: Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
-
-
-
 
