@@ -43,10 +43,10 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
 
 <div style="text-align: center; margin-top: 20px;">
   <h3>:top: Top Contributed Repository</h3>
@@ -55,6 +55,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 350px;">
   </div>
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
