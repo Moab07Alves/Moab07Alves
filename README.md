@@ -20,7 +20,7 @@
   <h3>:top: Top Contributed Repo</h3>
   <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 10px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 500px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 500px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animated GIF" style="width: 450px;">
   </div>
 </div>
 
