@@ -60,3 +60,7 @@
 <h3 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src= "https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAzMTYzMDEsIm5iZiI6MTczMDMxNjAwMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMwVDE5MjAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzYWMzYzUzMDk0YjUyY2IxNTZhMTBhMjBlODg2NmE1MGNiOGZiZmIyOWVjYmY0NWU3NTgzZmIzODM0NDY3OWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LZ7imZvrInybwg4so9KtXRSEox8iUa7kWjueiZaE5X0" style="display: block; margin: 0 auto;">
+</div>
