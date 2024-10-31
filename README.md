@@ -57,7 +57,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moab07Alves&bg_color=0d1117&color=03bb85&line=338b85&point=d5ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="center" style="color: #ba6771;"> 📱👻 Connect with me 👀👇</h1>
+<h1 align="center" style="color: #ba6771;"> 📱👻 CONNECT WITH ME 👀👇</h1>
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
