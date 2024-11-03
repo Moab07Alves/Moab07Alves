@@ -16,7 +16,7 @@
 
 <br>
 
-<h1 align="center" style="color: #ba6771;"> 💈TECH STACK💈 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
 
 ### 🚀 SKILLS 🗡
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
