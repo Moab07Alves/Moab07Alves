@@ -59,7 +59,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
