@@ -40,12 +40,12 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=🏆GITHUB+TROPHIES🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=🏆GITHUB+TROPHIES🏆)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=🔝TOP+CONTRIBUTED+REPOSITORY🔝)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=🔝TOP+CONTRIBUTED+REPOSITORY🔝)](https://git.io/typing-svg)
 <div style="text-align: center; margin-top: 20px;">
   <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 10px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=Moab07Alves&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 475px;">
