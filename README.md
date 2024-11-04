@@ -59,7 +59,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
@@ -68,7 +68,7 @@
   <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
