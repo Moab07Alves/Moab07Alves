@@ -7,7 +7,7 @@
 <img src= https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&&size=45&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Moab+Alves😀;I'm+20+years+old😁;I'm+from+Brazil🌎;I+graduated+Systems+Development🧑‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&size=45&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Moab+Alves😀;I'm+20+years+old😁;I'm+from+Brazil🌎;I+graduated+Systems+Development🧑‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" style="width: 450px; display: inline-block; margin-right: 30px;">
@@ -16,7 +16,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🚀+Skills+🗡)](https://git.io/typing-svg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,7 +59,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
@@ -68,7 +68,7 @@
   <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
