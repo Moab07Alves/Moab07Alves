@@ -16,14 +16,14 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ECF734&&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🚀+Skills+🗡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🚀+Skills+🗡)](https://git.io/typing-svg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🛠+Tools+🪛)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🛠+Tools+🪛)](https://git.io/typing-svg)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -31,7 +31,7 @@
 ![IntelijIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=📖+Studying+in+this+moment+🖊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=📖+Studying+in+this+moment+🖊)](https://git.io/typing-svg)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,7 +59,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=30&repeat=false&center=true&vCenter=true&width=1000&lines=📱+👻+Connect+with+me+👀+👇)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://discordapp.com/users/moab_07_alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/discord.png" alt="Discord"/></a>
@@ -68,7 +68,7 @@
   <a href="https://t.me/Moab_Alves"><img src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=DynaPuff&color=F7F7F7&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=25&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
