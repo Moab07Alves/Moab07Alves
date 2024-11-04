@@ -16,7 +16,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡Tech+Stack⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡TECH+STACK⚡)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🚀+Skills+🗡)](https://git.io/typing-svg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +40,7 @@
 
 <br>
 
-## :trophy: GITHUB TROPHIES
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=🏆GITHUB+TROPHIES🏆)](https://git.io/typing-svg)
 ![](https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
