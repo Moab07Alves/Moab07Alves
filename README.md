@@ -41,7 +41,10 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=25&repeat=false&center=false&vCenter=true&width=1000&lines=🏆GITHUB+TROPHIES🏆)](https://git.io/typing-svg)
-![](https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+<div style="text-align: center; margin: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moab07Alves&theme=chalk&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" style="max-width: 100%; height: auto;">
+</div>
+
 
 <br>
 
