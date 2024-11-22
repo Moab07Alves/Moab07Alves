@@ -10,8 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=45&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Moab+Alves😀;I'm+20+years+old😁;I'm+from+Brazil🌎;I+graduated+Systems+Development🧑‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" style="width: 450px; display: inline-block; margin-right: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas" style="width: 355px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" style="width: 450px; display: inline-block; margin-right: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas" style="width: 355px; display: inline-block;">
 </div>
 
 <br>
