@@ -14,6 +14,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas" style="width: 355px; display: inline-block;">
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" style="width: 450px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moab07Alves&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas" style="width: 355px;">
+</div>
+
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=40&repeat=false&center=true&vCenter=true&width=1000&lines=⚡TECH+STACK⚡)](https://git.io/typing-svg)
