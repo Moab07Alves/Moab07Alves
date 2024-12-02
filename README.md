@@ -73,6 +73,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7F7F7&size=35&repeat=false&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+😇)](https://git.io/typing-svg)
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake.svg">
+</picture>
 
  <div align="center">
         <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA0MTEwNjAsIm5iZiI6MTczMDQxMDc2MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDMxVDIxMzkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4YzE4NjYzYTkxM2VjNTk4YjQzYzk1MmNiODBmNGU0ZDdhZTg4ZmU0OWUxMTEzNjdkZTdkOTZkMmEzYTVkNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AdgpzK9E2172grV4f7Z_-LAtg8NZB_SxP6R-tFGctsQ" alt="Imagem GIF">
