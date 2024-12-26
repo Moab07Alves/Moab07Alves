@@ -78,3 +78,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src= https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif style="display: block; margin: 0 auto;">
