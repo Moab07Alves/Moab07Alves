@@ -80,5 +80,6 @@
 </picture>
 
 <br>
-
-<img src= https://github.com/Moab07Alves/Moab07Alves/blob/main/Baner%20do%20Linkedin.gif style="display: block; margin: 0 auto;">
+<div>
+    <img src= https://github.com/Moab07Alves/Moab07Alves/blob/main/Baner%20do%20Linkedin.gif style="display: block; margin: 0 auto;">
+</div>
