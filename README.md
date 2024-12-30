@@ -78,8 +78,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
-<div>
-    <img src= https://github.com/Moab07Alves/Moab07Alves/blob/main/Baner%20do%20Linkedin.gif style="display: block; margin: 0 auto;">
-</div>
