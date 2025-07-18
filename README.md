@@ -124,17 +124,17 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- Linha 1: 3 imagens fixas lado a lado -->
-  <div style="display: flex; justify-content: center; gap: 10px; overflow-x: auto; white-space: nowrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats" style="min-width: 300px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" style="min-width: 300px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" style="min-width: 300px;" />
+  <!-- Linha 1: Três imagens fixas lado a lado -->
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats" width="250" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" width="250" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" width="250" />
   </div>
 
-  <!-- Linha 2: 2 imagens lado a lado -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details" />
+  <!-- Linha 2: Duas imagens fixas lado a lado -->
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language" width="300" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details" width="300" />
   </div>
 
 </div>
