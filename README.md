@@ -9,7 +9,7 @@
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/moab-alves-de-souza-3421082a6/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09027b" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2668a0" 
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
