@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2668a0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Welcome!%F0%9F%98%81;My+name+is+Moab+Alves%F0%9F%91%A6;I'm+21+years+old%F0%9F%A5%B3;I+live+in+Brazil%F0%9F%8C%8E;I+am+a+student+of+the+Information+Systems+course%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=2668a0&font=Exo+2&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Welcome!%F0%9F%98%81;My+name+is+Moab+Alves%F0%9F%91%A6;I'm+21+years+old%F0%9F%A5%B3;I+live+in+Brazil%F0%9F%8C%8E;I+am+a+student+of+the+Information+Systems+course%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br>
 
