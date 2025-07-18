@@ -40,14 +40,14 @@
 <div align="center">
 
   <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="Stats" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" height="160" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=github_dark" alt="Stats" height="160" />&nbsp;&nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=github_dark&exclude={exclude}" alt="Repos per Language" height="160" />&nbsp;&nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=github_dark&utcOffset=8" alt="Productive Time" height="160" />
   </p>
 
   <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details" height="160" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=github_dark&exclude={exclude}" alt="Most Commit Language" height="160" />&nbsp;&nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=github_dark" alt="Profile Details" height="160" />
   </p>
 
 </div>
