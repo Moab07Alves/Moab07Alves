@@ -121,3 +121,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/pacman-contribution-graph.svg" />
 </picture>
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- Linha 1: Três primeiros -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" />
+  </div>
+
+  <!-- Linha 2: Dois últimos -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details" />
+  </div>
+
+</div>
