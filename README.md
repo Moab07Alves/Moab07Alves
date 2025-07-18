@@ -122,27 +122,6 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/pacman-contribution-graph.svg" />
 </picture>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <!-- Linha 1: 3 imagens lado a lado, mesma altura, largura proporcional -->
-  <div style="display: flex; justify-content: center; gap: 10px; width: 100%; max-width: 960px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats"
-         style="height: 180px; width: auto; flex-grow: 1; object-fit: contain;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language"
-         style="height: 180px; width: auto; flex-grow: 1; object-fit: contain;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time"
-         style="height: 180px; width: auto; flex-grow: 1; object-fit: contain;" />
-  </div>
-
-  <!-- Linha 2: 2 imagens lado a lado, mesma altura, largura proporcional -->
-  <div style="display: flex; justify-content: center; gap: 10px; width: 100%; max-width: 640px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language"
-         style="height: 180px; width: auto; flex-grow: 1; object-fit: contain;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details"
-         style="height: 180px; width: auto; flex-grow: 1; object-fit: contain;" />
-  </div>
-
-</div>
 <div align="center">
 
   <!-- Linha 1 -->
