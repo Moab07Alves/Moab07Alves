@@ -54,7 +54,7 @@
 
 ---
 
-**`                            Moab Alves - Developer Fullstack Intern (Compass PBSoft)💻                            `**
+**`                            Moab Alves - Developer Fullstack Intern (Compass PBSoft)👨‍💻                            `**
 
 <!-- GitHub Logo -->
 
