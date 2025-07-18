@@ -43,6 +43,12 @@
 
 <br>
 
+💻 I'm a full-stack developer driven by a passion for technology and a constant curiosity to learn and understand new tools, languages, and concepts. I strive to continuously improve my software development skills by exploring various areas such as cloud computing, automation, and security.
+
+✨ I work on both the front-end and back-end, currently focusing on PHP (Laravel). I'm also experienced with technologies like HTML5, CSS3 (Sass, Tailwind), JavaScript, TypeScript, Node.js, and Java (Spring Boot).
+
+🚀 I enjoy designing projects to be robust and scalable, leveraging tools like Docker, Kubernetes, Git, WSL, and Linux environments. I believe in the power of continuous improvement and challenge myself every day to grow at least 1% as a developer.
+
 ---
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
