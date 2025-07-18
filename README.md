@@ -124,15 +124,15 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- Linha 1: Três primeiros -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" />
+  <!-- Linha 1: 3 imagens fixas lado a lado -->
+  <div style="display: flex; justify-content: center; gap: 10px; overflow-x: auto; white-space: nowrap;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=dracula" alt="GitHub Stats" style="min-width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Repos per Language" style="min-width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=dracula&utcOffset=8" alt="Productive Time" style="min-width: 300px;" />
   </div>
 
-  <!-- Linha 2: Dois últimos -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- Linha 2: 2 imagens lado a lado -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=dracula&exclude={exclude}" alt="Most Commit Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=dracula" alt="Profile Details" />
   </div>
