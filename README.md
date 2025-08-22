@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ee010b"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5f66c0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=ee010b&font=Exo+2&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Welcome!;My+name+is+Moab+Alves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=5f66c0&font=Exo+2&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Welcome!;My+name+is+Moab+Alves)](https://git.io/typing-svg)
 
 <br>
 
@@ -141,4 +141,4 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Moab07Alves/Moab07Alves/output/pacman-contribution-graph.svg" />
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee010b&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f66c0&height=100&section=footer"/>
