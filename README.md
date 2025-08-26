@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=5f66c0&font=Exo+2&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Welcome!;My+name+is+Moab+Alves)](https://git.io/typing-svg)
 
-<br>
-
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
@@ -37,20 +35,12 @@
        style="height: 27px;" /></a>
 </p>
 
-<div align="center">
-
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moab07Alves&theme=github_dark" alt="Stats" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moab07Alves&theme=github_dark&exclude={exclude}" alt="Repos per Language" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moab07Alves&theme=github_dark&utcOffset=8" alt="Productive Time" height="160" />
-  </p>
-
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moab07Alves&theme=github_dark&exclude={exclude}" alt="Most Commit Language" height="160" />&nbsp;&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moab07Alves&theme=github_dark" alt="Profile Details" height="160" />
-  </p>
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moab07Alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moab07Alves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
+
 
 ---
 
