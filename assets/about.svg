@@ -1,0 +1,51 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Title -->
+  <text
+    x="60"
+    y="70"
+    fill="#E5E5E5"
+    font-size="32"
+    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    About Me
+  </text>
+
+  <!-- Accent Line -->
+  <rect
+    x="60"
+    y="90"
+    width="145"
+    height="3"
+    rx="2"
+    fill="#60A5FA"
+  />
+
+  <!-- Description -->
+  <text
+    x="60"
+    y="140"
+    fill="#E5E5E5"
+    font-size="20"
+    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    Computer Science student at Federal University of Paraíba.
+  </text>
+
+  <text
+    x="60"
+    y="175"
+    fill="#BDBDBD"
+    font-size="18"
+    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    Fullstack Developer Intern at PBSoft, focused on web applications
+  </text>
+
+  <text
+    x="60"
+    y="210"
+    fill="#BDBDBD"
+    font-size="18"
+    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    and scalable solutions with clean code and software quality.
+  </text>
+
+</svg>
