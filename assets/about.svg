@@ -1,4 +1,4 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Title -->
   <text
@@ -20,32 +20,37 @@
     fill="#60A5FA"
   />
 
-  <!-- Description -->
-  <text
+  <!-- Text Content -->
+  <foreignObject
     x="60"
-    y="140"
-    fill="#E5E5E5"
-    font-size="20"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    Computer Science student at Federal University of Paraíba.
-  </text>
+    y="120"
+    width="1080"
+    height="140">
 
-  <text
-    x="60"
-    y="175"
-    fill="#BDBDBD"
-    font-size="18"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    Fullstack Developer Intern at PBSoft, focused on web applications
-  </text>
+    <div xmlns="http://www.w3.org/1999/xhtml"
+      style="
+        font-family: SF Mono, Menlo, Monaco, Consolas, monospace;
+        width: 100%;
+        line-height: 1.8;
+      ">
 
-  <text
-    x="60"
-    y="210"
-    fill="#BDBDBD"
-    font-size="18"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    and scalable solutions with clean code and software quality.
-  </text>
+      <div style="
+        color:#E5E5E5;
+        font-size:20px;
+      ">
+        Computer Science student at Federal University of Paraíba.
+      </div>
+
+      <div style="
+        color:#BDBDBD;
+        font-size:18px;
+      ">
+        Fullstack Developer Intern at PBSoft, focused on web applications
+        and scalable solutions with clean code and software quality.
+      </div>
+
+    </div>
+
+  </foreignObject>
 
 </svg>
