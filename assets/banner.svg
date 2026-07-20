@@ -27,13 +27,10 @@
 
   <!-- Terminal Content -->
 
-  <text
-    x="40"
-    y="90"
-    fill="#E5E5E5"
-    font-size="22"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    moab@developer ~ % whoami
+  <text x="40" y="90" font-size="22" font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    <tspan fill="#4ADE80">moab@developer</tspan>
+    <tspan fill="#60A5FA"> ~ </tspan>
+    <tspan fill="#E5E5E5">% whoami</tspan>
   </text>
 
   <text
@@ -45,13 +42,10 @@
     Moab Alves
   </text>
 
-  <text
-    x="40"
-    y="180"
-    fill="#E5E5E5"
-    font-size="22"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    moab@developer ~ % cat role.txt
+  <text x="40" y="180" font-size="22" font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    <tspan fill="#4ADE80">moab@developer</tspan>
+    <tspan fill="#60A5FA"> ~ </tspan>
+    <tspan fill="#E5E5E5">% cat role.txt</tspan>
   </text>
 
   <text
@@ -63,13 +57,10 @@
     Full Stack Developer
   </text>
 
-  <text
-    x="40"
-    y="270"
-    fill="#E5E5E5"
-    font-size="22"
-    font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
-    moab@developer ~ % cat focus.txt
+  <text x="40" y="270" font-size="22" font-family="SF Mono, Menlo, Monaco, Consolas, monospace">
+    <tspan fill="#4ADE80">moab@developer</tspan>
+    <tspan fill="#60A5FA"> ~ </tspan>
+    <tspan fill="#E5E5E5">% cat focus.txt</tspan>
   </text>
 
   <text
