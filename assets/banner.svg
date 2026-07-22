@@ -1,7 +1,7 @@
-<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="1220" viewBox="0 0 1200 1220" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect width="1200" height="900" rx="16" fill="#1E1E1E"/>
+  <rect width="1200" height="1220" rx="16" fill="#1E1E1E"/>
 
   <!-- Top Bar -->
   <rect width="1200" height="42" rx="16" fill="#323232"/>
@@ -149,5 +149,99 @@
     <tspan fill="#E5E5E5">% ls tech-stack/</tspan>
   </text>
   
+<!-- ====================== -->
+<!-- Row 1 -->
+<!-- ====================== -->
 
+<image href="./icons/java.svg" x="40" y="715" width="22" height="22"/>
+<text x="72" y="732" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Java</text>
+
+<image href="./icons/spring.svg" x="320" y="715" width="22" height="22"/>
+<text x="352" y="732" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Spring Boot</text>
+
+<image href="./icons/postgresql.svg" x="600" y="715" width="22" height="22"/>
+<text x="632" y="732" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">PostgreSQL</text>
+
+<image href="./icons/git.svg" x="880" y="715" width="22" height="22"/>
+<text x="912" y="732" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Git</text>
+
+
+<!-- ====================== -->
+<!-- Row 2 -->
+<!-- ====================== -->
+
+<image href="./icons/javascript.svg" x="40" y="765" width="22" height="22"/>
+<text x="72" y="782" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">JavaScript</text>
+
+<image href="./icons/laravel.svg" x="320" y="765" width="22" height="22"/>
+<text x="352" y="782" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Laravel</text>
+
+<image href="./icons/mysql.svg" x="600" y="765" width="22" height="22"/>
+<text x="632" y="782" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">MySQL</text>
+
+<image href="./icons/linux.svg" x="880" y="765" width="22" height="22"/>
+<text x="912" y="782" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Linux</text>
+
+
+<!-- ====================== -->
+<!-- Row 3 -->
+<!-- ====================== -->
+
+<image href="./icons/typescript.svg" x="40" y="815" width="22" height="22"/>
+<text x="72" y="832" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">TypeScript</text>
+
+<image href="./icons/react.svg" x="320" y="815" width="22" height="22"/>
+<text x="352" y="832" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">React</text>
+
+<image href="./icons/node.svg" x="600" y="815" width="22" height="22"/>
+<text x="632" y="832" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Node.js</text>
+
+<image href="./icons/jenkins.svg" x="880" y="815" width="22" height="22"/>
+<text x="912" y="832" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Jenkins</text>
+
+
+<!-- ====================== -->
+<!-- Row 4 -->
+<!-- ====================== -->
+
+<image href="./icons/php.svg" x="40" y="865" width="22" height="22"/>
+<text x="72" y="882" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">PHP</text>
+
+<image href="./icons/nextjs.svg" x="320" y="865" width="22" height="22"/>
+<text x="352" y="882" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Next.js</text>
+
+<image href="./icons/intellij.svg" x="600" y="865" width="22" height="22"/>
+<text x="632" y="882" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">IntelliJ IDEA</text>
+
+<image href="./icons/vscode.svg" x="880" y="865" width="22" height="22"/>
+<text x="912" y="882" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">VS Code</text>
+
+
+<!-- ====================== -->
+<!-- Row 5 -->
+<!-- ====================== -->
+
+<image href="./icons/python.svg" x="40" y="915" width="22" height="22"/>
+<text x="72" y="932" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">Python</text>
+
+<image href="./icons/pycharm.svg" x="320" y="915" width="22" height="22"/>
+<text x="352" y="932" fill="#E5E5E5" font-size="20"
+      font-family="SF Mono, Menlo, Monaco, Consolas, monospace">PyCharm</text>
 </svg>
